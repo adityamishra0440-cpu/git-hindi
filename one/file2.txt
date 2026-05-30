@@ -1,2 +1,3 @@
 this is my file 2 for git course
 adding more content to file2.
+add footer note
