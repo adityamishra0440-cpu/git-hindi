@@ -1,3 +1,9 @@
 this is my file 2 for git course
 adding more content to file2.
+<<<<<<< HEAD
 add footer note
+=======
+one more bug detected and fixed.
+fourth bug fixed
+>>>>>>> bug-fix
+2025 is coming 
