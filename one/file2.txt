@@ -1,2 +1,9 @@
 this is my file 2 for git course
 adding more content to file2.
+<<<<<<< HEAD
+=======
+one more bug detected and fixed.
+fourth bug fixed
+
+2025 footer node added
+>>>>>>> bug-fix
