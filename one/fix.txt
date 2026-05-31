@@ -1,2 +1,5 @@
 I am a fix file which is use to fix the value.
 fixed another bug
+pinkmode fix - one more bug fixed
+
+another fix message for pink mode
